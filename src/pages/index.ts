@@ -1,0 +1,11 @@
+export {default as Landing} from './Landing';
+export {default as SignUp} from './SignUp';
+export {default as ConfirmSignUp} from './ConfirmSignUp';
+export {default as SignIn} from './SignIn';
+export {default as ChooseProfile} from './ChooseProfile';
+export {default as AddNewProfile} from './AddNewProfile';
+export {default as HomeRoot} from './HomeRoot';
+export {default as Home} from './Home';
+export {default as ContentSelected} from './ContentSelected';
+export {default as SearchContent} from './SearchContent';
+export {default as PlayVideo} from './PlayVideo';
