@@ -68,6 +68,18 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+# Simulator
+
+Here you can see a sample overview that how the project is going:
+
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/d4053b7f-af8b-417b-9e58-d3e86e84b53f" alt="drawing" width="200" style=""/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/42ba8878-e64a-4d30-ad57-60cee483bc62" alt="drawing" width="200"/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/2a608fe4-be69-4d1c-8f22-0acc946e59b3" alt="drawing" width="200"/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/0208ae4b-1847-40cf-9efe-44e240316093" alt="drawing" width="200"/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/80870019-dd28-4e8d-86fe-29f36ecc6b68" alt="drawing" width="200"/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/8c7fd97d-18f9-4623-879b-6d9304d21936" alt="drawing" width="200"/>
+<img src="https://github.com/jonfer1022/netflix-clone-RN/assets/75956299/a981c4dc-3a11-471c-ac87-8302ddf97b7f" alt="drawing" width="200"/>
+
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
